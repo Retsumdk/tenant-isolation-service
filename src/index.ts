@@ -1,7 +1,7 @@
 #!/usr/bin/env bun
 /**
  * tenant-isolation-service - Multi-tenant data isolation at query level
- * Built with Zo Computer by The BookMaster
+ * Built by Retsumdk
  */
 
 import { Command } from "commander";
